@@ -21,37 +21,11 @@
 # Hello Folks! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">
  <!-- Profile views -->
 
- 
- <p align="left">My name is Adrián Julián Ramos Romero and I'm a Fullstack Developer.
-  
-
-  
-<!--   I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Engineering. -->
-</p>
-
-<!-- See [my website](https://rahulkarda.netlify.app) for more information! <br> <br>
-You can also find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
-website -->
-
-🌱 I’m currently studying Computer Science.
-
-👯 I’m looking to collaborate on different projects
-
-👨‍💻 All of my projects are available at [my website](https://rahulkarda.netlify.app)
-
-📝 I actively post on [LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-juli%C3%A1n-ramos-romero-79b3bb33a/)
-
-👀 Ask me about React, NextJS, NodeJS, and APIs
-
-📫You can reach me at 
-
-⚡ Fun fact  - I love gastronomy and playing sports.
-
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 
-🎓 &nbsp;I'm currently studying Computer Engineering ( specialized in Computer Science) at the University of Castilla-La Macha.\
+🎓 &nbsp;I'm currently studying Computer Engineering (specialized in Computer Science) at the University of Castilla-La Macha.\
 
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 
