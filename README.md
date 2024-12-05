@@ -37,7 +37,6 @@
 <br>
 
 # Projects ⚙️
-# Projects ⚙️
 
 <table bordercolor="#66b2b2">
   <tr>
