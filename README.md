@@ -25,7 +25,7 @@
  
  <p align="left">My name is Rahul Karda and I'm a Fullstack Developer.
   
-  I'm from India, living in Bhopal and currently studying Computer Science.
+
   
 <!--   I am motivated by the power of technology as a tool for positive change, with a background in Math, Physics, and Engineering. -->
 </p>
@@ -34,7 +34,7 @@
 You can also find me on [![Twitter][1.2]][1],  or on [![LinkedIn][3.2]][3].
 website -->
 
-🌱 I’m currently learning React, NextJS
+🌱 I’m currently studying Computer Science.
 
 👯 I’m looking to collaborate on different projects
 
@@ -44,7 +44,7 @@ website -->
 
 👀 Ask me about React, NextJS, NodeJS, and APIs
 
-📫You can reach me at rahulkarda2002@gmail.com
+📫You can reach me at adrianjramosromero@gmail.com
 
 ⚡ Fun fact  - I like Philosophy and Astronomy
 
@@ -303,7 +303,7 @@ A sample of my recent articles:
 
 <!-- default README.md -->
 <!--
-- 👋 Hi, I’m Rahul Karda
+- 👋 Hi, I’m Adrián Julián Ramos Romero
 - 👀 I’m interested in Full Stack Web Development and other skills
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on different web dev projects
