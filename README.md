@@ -41,7 +41,7 @@
 <table bordercolor="#66b2b2">
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Análisis de violencia armada en EE. UU.</h3>
+      <h3 align="center">Gun Violence Analysis in the U.S.</h3>
       <br />
       <p align="center">
         <a href="https://github.com/AdrianRamos15/analisis-violencia-armada" target="_blank">
@@ -49,11 +49,11 @@
         </a>
       </p>
       <p>
-        Proyecto de minería de datos sobre incidentes violentos con armas de fuego en EE. UU., analizando el impacto de variables como fines de semana, clima, tasa de pobreza y legislación sobre armas.
+        Data mining project on gun violence incidents in the U.S., analyzing the impact of variables such as weekends, weather, poverty rate, and gun legislation.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Sistema Experto Nutricional Personalizado</h3>
+      <h3 align="center">Personalized Nutritional Expert System</h3>
       <br />
       <p align="center">
         <a href="https://github.com/AdrianRamos15/sistema-experto-nutricional" target="_blank">
@@ -61,16 +61,14 @@
         </a>
       </p>
       <p>
-        Desarrollo de un sistema experto enfocado en generar recomendaciones personalizadas de alimentación para pacientes. Se integró conocimiento especializado mediante lógica difusa y reglas, ofreciendo soluciones nutricionales adaptadas a las necesidades individuales de los usuarios.
-        <br>
-        <strong>Tecnologías usadas:</strong> FuzzyClips, Clips, Taxonomías, sistemas de reglas.
+        Development of an expert system aimed at providing personalized nutritional recommendations for patients. Specialized knowledge was integrated using fuzzy logic and rules to offer nutritional solutions tailored to individual user needs.
       </p>
     </td>
   </tr>
 
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">Gestión y Predicción de Accidentes de Tráfico en UK</h3>
+      <h3 align="center">Traffic Accident Prediction in the UK</h3>
       <br />
       <p align="center">
         <a href="https://github.com/AdrianRamos15/prediccion-accidentes-uk" target="_blank">
@@ -78,13 +76,11 @@
         </a>
       </p>
       <p>
-        Desarrollo de un sistema para analizar datos de accidentes de tráfico en UK, con extracción, preprocesamiento y almacenamiento en MySQL, desplegado en Docker. Incluye una API REST (FastAPI) y una interfaz web (Flask) para consultas.
-        <br>
-        <strong>Tecnologías usadas:</strong> Python, Docker, FastAPI, Flask, MLFlow, Pandas.
+        Development of a system to analyze traffic accident data in the UK, with extraction, preprocessing, and storage in MySQL deployed in Docker. It includes a REST API (FastAPI) and a web interface (Flask) for queries.
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">Cubos de Marcha</h3>
+      <h3 align="center">Marching Cubes</h3>
       <br />
       <p align="center">
         <a href="https://github.com/AdrianRamos15/cubos-de-marcha" target="_blank">
@@ -92,12 +88,11 @@
         </a>
       </p>
       <p>
-        Implementación en C del algoritmo original de Marching Cubes.
+        Implementation in C of the original Marching Cubes algorithm.
       </p>
     </td>
   </tr>
 </table>
-
 
 
 # Technologies & Tools 🔧
