@@ -51,7 +51,7 @@ website -->
 
 💡 &nbsp;I like to explore new technologies and develop software solutions.\
 
-🎓 &nbsp;I'm currently studying Computer Engineering (specialized in Computer Science) at the University of Castilla-La Macha.\
+🎓 &nbsp;I'm currently studying Computer Engineering ( specialized in Computer Science) at the University of Castilla-La Macha.\
 
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
 
