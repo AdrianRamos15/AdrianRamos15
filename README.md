@@ -23,17 +23,17 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions.\
+💡 &nbsp;I like to explore new technologies and develop software solutions.
 
-🎓 &nbsp;I'm currently studying Computer Engineering (specialized in Computer Science) at the University of Castilla-La Macha.\
+🎓 &nbsp;I'm currently studying Computer Engineering (specialized in Computer Science) at the University of Castilla-La Macha.
 
-🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.\
+🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
 
-✍️ &nbsp;In my free time, I pursue to practicing sports and traveling\
+✍️ &nbsp;In my free time, I pursue to practicing sports and traveling.
 
-💬 &nbsp;Feel free to reach out to me for consulting or just for some interesting discussion.\
+💬 &nbsp;Feel free to reach out to me for consulting or just for some interesting discussion.
 
-✉️ &nbsp;You can shoot me an email at adrianjramosromero@gmail.com\
+✉️ &nbsp;You can shoot me an email at adrianjramosromero@gmail.com
 <br>
 
 # Projects ⚙️
