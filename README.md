@@ -45,7 +45,7 @@ website -->
 
 📫You can reach me at adrianjramosromero@gmail.com
 
-⚡ Fun fact  - I like Philosophy and Astronomy
+⚡ Fun fact  - I love gastronomy and playing sports.
 
 <br>
 
