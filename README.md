@@ -36,11 +36,53 @@
 ✉️ &nbsp;You can shoot me an email at adrianjramosromero@gmail.com
 <br>
 
-
 # Projects ⚙️
 
 <table bordercolor="#66b2b2">
   <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Análisis de violencia armada en EE. UU.</h3>
+      <br />
+      <p align="center">
+        <a href="https://github.com/AdrianRamos15/analisis-violencia-armada" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+      </p>
+      <p>
+        Proyecto de minería de datos sobre incidentes violentos con armas de fuego en EE. UU., analizando el impacto de variables como fines de semana, clima, tasa de pobreza y legislación sobre armas.
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Sistema Experto Nutricional Personalizado</h3>
+      <br />
+      <p align="center">
+        <a href="https://github.com/AdrianRamos15/sistema-experto-nutricional" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+      </p>
+      <p>
+        Desarrollo de un sistema experto enfocado en generar recomendaciones personalizadas de alimentación para pacientes. Se integró conocimiento especializado mediante lógica difusa y reglas, ofreciendo soluciones nutricionales adaptadas a las necesidades individuales de los usuarios.
+        <br>
+        <strong>Tecnologías usadas:</strong> FuzzyClips, Clips, Taxonomías, sistemas de reglas.
+      </p>
+    </td>
+  </tr>
+
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">Gestión y Predicción de Accidentes de Tráfico en UK</h3>
+      <br />
+      <p align="center">
+        <a href="https://github.com/AdrianRamos15/prediccion-accidentes-uk" target="_blank">
+          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
+        </a>
+      </p>
+      <p>
+        Desarrollo de un sistema para analizar datos de accidentes de tráfico en UK, con extracción, preprocesamiento y almacenamiento en MySQL, desplegado en Docker. Incluye una API REST (FastAPI) y una interfaz web (Flask) para consultas.
+        <br>
+        <strong>Tecnologías usadas:</strong> Python, Docker, FastAPI, Flask, MLFlow, Pandas.
+      </p>
+    </td>
     <td width="50%" valign="top">
       <h3 align="center">Cubos de Marcha</h3>
       <br />
@@ -49,40 +91,9 @@
           <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
         </a>
       </p>
-      <p><strong>C</strong> - Implementación en C del algoritmo original de Marching Cubes.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Análisis Violencia-Armas</h3>
-      <br />
-      <p align="center">
-        <a href="https://github.com/AdrianRamos15/analisis-violencia-armas" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-        </a>
+      <p>
+        Implementación en C del algoritmo original de Marching Cubes.
       </p>
-      <p><strong>HTML</strong> - Proyecto de prácticas de Minería de Datos (Grupo 4).</p>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">HieloFlix</h3>
-      <br />
-      <p align="center">
-        <a href="https://github.com/AdrianRamos15/HieloFlix" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-        </a>
-      </p>
-      <p><strong>Python</strong> - Proyecto del curso de Sistemas Distribuidos - Escuela Superior de Informática - UCLM.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">UCLM-VISILAB/Extensión Qupath-GnCNN</h3>
-      <br />
-      <p align="center">
-        <a href="https://github.com/AdrianRamos15/UCLM-VISILAB-extension-qupath-gncnn" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-        </a>
-      </p>
-      <p><strong>Java</strong> - Bifurcado de QuPath para la clasificación de glomerulonefritis por red neuronal.</p>
     </td>
   </tr>
 </table>
