@@ -31,7 +31,7 @@
 
 ✍️ &nbsp;In my free time, I pursue to practicing sports and traveling\
 
-💬 &nbsp;Feel free to reach out to me for pro bono consulting or just for some interesting discussion.\
+💬 &nbsp;Feel free to reach out to me for consulting or just for some interesting discussion.\
 
 ✉️ &nbsp;You can shoot me an email at adrianjramosromero@gmail.com\
 <br>
