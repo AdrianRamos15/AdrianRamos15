@@ -39,7 +39,7 @@ website -->
 
 👨‍💻 All of my projects are available at [my website](https://rahulkarda.netlify.app)
 
-📝 I actively post on LinkedIn [![LinkedIn][3.2]][3]
+📝 I actively post on LinkedIn [LinkedIn](https://www.linkedin.com/in/adri%C3%A1n-juli%C3%A1n-ramos-romero)
 
 👀 Ask me about React, NextJS, NodeJS, and APIs
 
