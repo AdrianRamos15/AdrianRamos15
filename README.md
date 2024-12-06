@@ -39,64 +39,24 @@
 
 ✉️ &nbsp;You can shoot me an email at adrianjramosromero@gmail.com
 <br>
-
 # Projects ⚙️
 
-<table bordercolor="#66b2b2">
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Gun Violence Analysis in the U.S.</h3>
-      <br />
-      <p align="center">
-        <a href="https://github.com/AdrianRamos15/analisis-violencia-armada" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-        </a>
-      </p>
-      <p>
-        Data mining project on gun violence incidents in the U.S., analyzing the impact of variables such as weekends, weather, poverty rate, and gun legislation.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Personalized Nutritional Expert System</h3>
-      <br />
-      <p align="center">
-        <a href="https://github.com/AdrianRamos15/sistema-experto-nutricional" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-        </a>
-      </p>
-      <p>
-        Development of an expert system aimed at providing personalized nutritional recommendations for patients. Specialized knowledge was integrated using fuzzy logic and rules to offer nutritional solutions tailored to individual user needs.
-      </p>
-    </td>
-  </tr>
+<a href="https://github.com/AdrianRamos15/analisis-violencia-armada">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=analisis-violencia-armada&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Traffic Accident Prediction in the UK</h3>
-      <br />
-      <p align="center">
-        <a href="https://github.com/AdrianRamos15/prediccion-accidentes-uk" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-        </a>
-      </p>
-      <p>
-        Development of a system to analyze traffic accident data in the UK, with extraction, preprocessing, and storage in MySQL deployed in Docker. It includes a REST API (FastAPI) and a web interface (Flask) for queries.
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Marching Cubes</h3>
-      <br />
-      <p align="center">
-        <a href="https://github.com/AdrianRamos15/cubos-de-marcha" target="_blank">
-          <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=f&style=plastic&logo=github&logo-color=white"/>
-        </a>
-      </p>
-      <p>
-        Implementation in C of the original Marching Cubes algorithm.
-      </p>
-    </td>
-  </tr>
-</table>
+<a href="https://github.com/AdrianRamos15/sistema-experto-nutricional">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=sistema-experto-nutricional&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/AdrianRamos15/prediccion-accidentes-uk">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=prediccion-accidentes-uk&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
+<a href="https://github.com/AdrianRamos15/cubos-de-marcha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=cubos-de-marcha&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+
 
 
 # Technologies & Tools 🔧
