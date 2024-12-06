@@ -44,35 +44,43 @@
 
 # Projects ⚙️
 
-### Gun Violence Analysis in the U.S.  
+# GitHub Stats 📈
+
+<a href="https://github.com/AdrianRamos15">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianRamos15&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+
+<a href="https://github.com/AdrianRamos15">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdrianRamos15&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Adrian%27s%20GitHub%20Stats" alt="Adrian's GitHub Stats" />
+</a>
+<br><br>
+
+<a href="https://github.com/AdrianRamos15">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdrianRamos15&theme=radical&hide_border=true)](https://github.com/AdrianRamos15" alt="Adrian's GitHub Stats Graph"/>
+</a>
+<br><br>
+
+<a href="https://github.com/AdrianRamos15">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianRamos15&theme=dark" alt="Adrian's GitHub Streak Stats"/>
+</a>
+<br><br>
+
+<a href="https://github.com/AdrianRamos15">
+  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=AdrianRamos15&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Adrian's GitHub Contributions Graph"/>
+</a>
+<br><br>
+
 <a href="https://github.com/AdrianRamos15/analisis-violencia-armada">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=analisis-violencia-armada&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Gun Violence Analysis Project" />
-</a>  
-> Data mining project on gun violence incidents in the U.S., analyzing the impact of variables such as weekends, weather, poverty rate, and gun legislation.  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=analisis-violencia-armada&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
----
-
-### Personalized Nutritional Expert System  
 <a href="https://github.com/AdrianRamos15/sistema-experto-nutricional">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=sistema-experto-nutricional&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nutritional Expert System" />
-</a>  
-> Development of an expert system aimed at providing personalized nutritional recommendations for patients using fuzzy logic.  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=sistema-experto-nutricional&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
 
----
-
-### Traffic Accident Prediction in the UK  
 <a href="https://github.com/AdrianRamos15/prediccion-accidentes-uk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=prediccion-accidentes-uk&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Traffic Accident Prediction" />
-</a>  
-> A system to analyze traffic accident data in the UK with data processing and visualization through MySQL and a web API.  
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=prediccion-accidentes-uk&title_color=ffffff&text
 
----
-
-### Marching Cubes  
-<a href="https://github.com/AdrianRamos15/cubos-de-marcha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=cubos-de-marcha&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Marching Cubes Algorithm" />
-</a>  
-> Implementation of the original Marching Cubes algorithm in C.  
 
 
 
