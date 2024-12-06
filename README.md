@@ -41,21 +41,24 @@
 <br>
 # Projects ⚙️
 
-<a href="https://github.com/AdrianRamos15/analisis-violencia-armada">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=analisis-violencia-armada&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+# Projects ⚙️
 
-<a href="https://github.com/AdrianRamos15/sistema-experto-nutricional">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=sistema-experto-nutricional&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+## Gun Violence Analysis in the U.S.
+[![Repo Card](https://img.shields.io/badge/Repository-View%20Project-green?style=flat-square&logo=github)](https://github.com/AdrianRamos15/analisis-violencia-armada)
+> Data mining project on gun violence incidents in the U.S., analyzing the impact of variables such as weekends, weather, poverty rate, and gun legislation.
 
-<a href="https://github.com/AdrianRamos15/prediccion-accidentes-uk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=prediccion-accidentes-uk&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+## Personalized Nutritional Expert System
+[![Repo Card](https://img.shields.io/badge/Repository-View%20Project-green?style=flat-square&logo=github)](https://github.com/AdrianRamos15/sistema-experto-nutricional)
+> Development of an expert system aimed at providing personalized nutritional recommendations for patients using fuzzy logic.
 
-<a href="https://github.com/AdrianRamos15/cubos-de-marcha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=cubos-de-marcha&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
+## Traffic Accident Prediction in the UK
+[![Repo Card](https://img.shields.io/badge/Repository-View%20Project-green?style=flat-square&logo=github)](https://github.com/AdrianRamos15/prediccion-accidentes-uk)
+> A system to analyze traffic accident data in the UK with data processing and visualization through MySQL and a web API.
+
+## Marching Cubes
+[![Repo Card](https://img.shields.io/badge/Repository-View%20Project-green?style=flat-square&logo=github)](https://github.com/AdrianRamos15/cubos-de-marcha)
+> Implementation of the original Marching Cubes algorithm in C.
+
 
 
 
