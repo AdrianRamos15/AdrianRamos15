@@ -1,4 +1,4 @@
-[![Header](https://github.com/AdrianRamos15/AdrianRamos15/blob/main/header.png?raw=true "Header")](#)
+[![Header](https://raw.githubusercontent.com/AdrianRamos15/AdrianRamos15/main/github-header-image.png "Header")](#)
 
 <p align="center">
   <a href="#" target="_blank">
@@ -17,6 +17,7 @@
       <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=plastic&logo=react&logo-color=white"/>
   </a>
 </p>
+
 
 
 # Hello Folks! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">
