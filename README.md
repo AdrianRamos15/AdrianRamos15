@@ -67,23 +67,29 @@
 <br>
 
 
-## Mis Proyectos 🚀
+<h2 align="center">💻 Proyectos Destacados</h2>
 
-<a href="https://github.com/TU_USUARIO/analisisViolenciaArmas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=analisisViolenciaArmas&theme=dark" />
-</a>
+<div align="center">
+  <a href="https://github.com/RedBed24/Automatas_2324">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBed24&repo=Automatas_2324&theme=dark" />
+  </a>
+  <p align="center">📜 Se realizará un compilador para un subconjunto del lenguaje Java. Código de grupo: E01.</p>
 
-<a href="https://github.com/TU_USUARIO/SistemaExpertoNutricional">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=SistemaExpertoNutricional&theme=dark" />
-</a>
+  <a href="https://github.com/AdrianRamos15/analisisViolenciaArmas">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=analisisViolenciaArmas&theme=dark" />
+  </a>
+  <p align="center">📊 Análisis exploratorio de datos sobre violencia con armas en distintas regiones.</p>
 
-<a href="https://github.com/TU_USUARIO/SistemaGestionMapas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=SistemaGestionMapas&theme=dark" />
-</a>
+  <a href="https://github.com/AdrianRamos15/SistemaExportaNutricional">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=SistemaExportaNutricional&theme=dark" />
+  </a>
+  <p align="center">🍎 Sistema experto para recomendaciones nutricionales basado en reglas.</p>
 
-<a href="https://github.com/RedBed24/Automatas_2324">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBed24&repo=Automatas_2324&theme=dark" />
-</a>
+  <a href="https://github.com/AdrianRamos15/SistemaGestionMapas">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=SistemaGestionMapas&theme=dark" />
+  </a>
+  <p align="center">🗺️ Sistema para gestionar mapas interactivos y generar rutas optimizadas.</p>
+</div>
 
 
 ## Blog & Writing &#x270d; 
