@@ -2,23 +2,11 @@
 
 
 
-<p align="center">
-  <a href="#" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=ff&style=plastic&logo=realm&logo-color=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/adrian-ramos-romero/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
-  </a>
-  <a href="https://twitter.com/adrian_ramos15" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=d18014&style=plastic&logo=twitter&logo-color=white"/>
-  </a>
-  <a href="https://dev.to/adrianramos15" target="_blank">
-      <img src="https://img.shields.io/static/v1?label=|&message=DEV-TO&color=cde928&style=plastic&logo=dev.to&logo-color=white"/>
-  </a>
-  <a href="resume.pdf" target="_blank" download="Resume.pdf">
-      <img src="https://img.shields.io/static/v1?label=|&message=RESUME&color=24555f&style=plastic&logo=react&logo-color=white"/>
-  </a>
-</p>
+<!-- Enlace a LinkedIn -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adri%C3%A1n-juli%C3%A1n-ramos-romero-79b3bb33a/)
+
+<!-- Enlace a Outlook -->
+[![Outlook](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:AdrianJulian.Ramos@alu.uclm.es)
 
 
 
