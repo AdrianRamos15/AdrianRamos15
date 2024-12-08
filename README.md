@@ -33,7 +33,7 @@
 
 🌱 &nbsp;I'm on track for learning more about Artificial Intelligence, Systems Design, and Cloud Architecture.
 
-✍️ &nbsp;In my free time, I pursue to practicing sports and traveling.
+✍️ &nbsp;In my free time I am passionate about staying active by playing sports and discovering new flavors and cultures through gastronomy.
 
 💬 &nbsp;Feel free to reach out to me for consulting or just for some interesting discussion.
 
