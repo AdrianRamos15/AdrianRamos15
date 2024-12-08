@@ -68,15 +68,15 @@
 
 
 ## Proyectos Destacados 💻
-<a href="https://github.com/TU_USUARIO/analisisViolenciaArmas">
+<a href="https://github.com/AdrianRamos15/analisisViolenciaArmas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=analisisViolenciaArmas&theme=dark" />
 </a>
 
-<a href="https://github.com/TU_USUARIO/SistemaExpertoNutricional">
+<a href="https://github.com/AdrianRamos15/SistemaExpertoNutricional">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=SistemaExpertoNutricional&theme=dark" />
 </a>
 
-<a href="https://github.com/TU_USUARIO/SistemaGestionMapas">
+<a href="https://github.com/AdrianRamos15/SistemaGestionMapas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=SistemaGestionMapas&theme=dark" />
 </a>
 
