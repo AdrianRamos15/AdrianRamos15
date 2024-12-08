@@ -2,7 +2,7 @@
 
 
 
-<div style="display: flex; justify-content: center; align-items: center; width: 100%; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center; width: 100%; gap: 20px; margin: 0 auto;">
   <!-- Enlace a LinkedIn -->
   <a href="https://www.linkedin.com/in/adri%C3%A1n-juli%C3%A1n-ramos-romero-79b3bb33a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
