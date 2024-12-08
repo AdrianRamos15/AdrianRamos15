@@ -71,18 +71,29 @@
 <a href="https://github.com/AdrianRamos15/analisisViolenciaArmas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=analisisViolenciaArmas&theme=dark" />
 </a>
+**Análisis exploratorio de datos sobre violencia armada en diversas regiones, utilizando visualizaciones y estadísticas para identificar patrones y tendencias relacionadas con el uso de armas.**
+
+<br>
 
 <a href="https://github.com/AdrianRamos15/SistemaExpertoNutricional">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=SistemaExpertoNutricional&theme=dark" />
 </a>
+**Sistema experto para recomendaciones nutricionales basado en reglas.**
+
+<br>
 
 <a href="https://github.com/AdrianRamos15/SistemaGestionMapas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=SistemaGestionMapas&theme=dark" />
 </a>
+**Sistema para gestionar mapas interactivos y generar rutas optimizadas utilizando Python, permitiendo la visualización y planificación de rutas en base a diferentes parámetros geográficos.**
+
+<br>
 
 <a href="https://github.com/RedBed24/Automatas_2324">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBed24&repo=Automatas_2324&theme=dark" />
 </a>
+**Se realizará un compilador para un subconjunto del lenguaje Java. Código de grupo: E01.**
+
 
 
 
