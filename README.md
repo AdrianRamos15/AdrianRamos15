@@ -22,7 +22,7 @@
 
 
 
-# Hello Folks! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">
+# Hello Folks! 
  <!-- Profile views -->
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -39,48 +39,6 @@
 
 ✉️ &nbsp;You can shoot me an email at adrianjramosromero@gmail.com
 <br>
-
-
-
-# Projects ⚙️
-
-# GitHub Stats 📈
-
-<a href="https://github.com/AdrianRamos15">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdrianRamos15&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-
-<a href="https://github.com/AdrianRamos15">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=AdrianRamos15&count_private=true&show_icons=true&theme=radical&hide_border=true&custom_title=Adrian%27s%20GitHub%20Stats" alt="Adrian's GitHub Stats" />
-</a>
-<br><br>
-
-<a href="https://github.com/AdrianRamos15">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AdrianRamos15&theme=radical&hide_border=true)](https://github.com/AdrianRamos15" alt="Adrian's GitHub Stats Graph"/>
-</a>
-<br><br>
-
-<a href="https://github.com/AdrianRamos15">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AdrianRamos15&theme=dark" alt="Adrian's GitHub Streak Stats"/>
-</a>
-<br><br>
-
-<a href="https://github.com/AdrianRamos15">
-  <img align="center" src="https://activity-graph.herokuapp.com/graph?username=AdrianRamos15&theme=react-dark&hide_border=true&custom_title=Contribution%20Graph" alt="Adrian's GitHub Contributions Graph"/>
-</a>
-<br><br>
-
-<a href="https://github.com/AdrianRamos15/analisis-violencia-armada">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=analisis-violencia-armada&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/AdrianRamos15/sistema-experto-nutricional">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=sistema-experto-nutricional&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-
-<a href="https://github.com/AdrianRamos15/prediccion-accidentes-uk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=prediccion-accidentes-uk&title_color=ffffff&text
-
 
 
 
