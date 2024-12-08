@@ -86,61 +86,6 @@
 
 
 
-## Blog & Writing &#x270d; 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [rahulkarda.netlify.app](https://rahulkarda.netlify.app) as well as on [Medium](https://medium.com/@rahulkarda2002) and [DEV.to](https://dev.to/rahulkarda).
-
-## Extras 📝
-  <details>
-  <summary>Click to expand!</summary>
-  <br>
-    <p>
-<a href="https://github.com/rahulkarda?tab=followers">
-    <img src="https://img.shields.io/github/followers/rahulkarda?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub Followers" />
-  </a>
-  <a href="https://twitter.com/intent/follow?screen_name=NigamAwantika">
-    <img src="https://img.shields.io/twitter/follow/RahulKarda2002?label=Twitter&logo=twitter&style=for-the-badge&color=blue" alt="TWitter Followers"/>
-  </a>
- </p>
- <br>
-  <p>
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulkarda&theme=onedark&column=3&margin-w=15&margin-h=15" />
-  </p>
-  <br>
- <img src="https://metrics.lecoq.io/rahulkarda?template=classic&activity=1&followup=1&languages=1&lines=1&people=1&activity.limit=5&activity.days=14&activity.filter=all&activity.visibility=all&activity.timestamps=false&languages.colors=github&languages.threshold=0%25&people.limit=28&people.size=28&people.types=followers%2C%20following&people.identicons=true&people.shuffle=true&config.timezone=Asia%2FCalcutta&config.twemoji=true" alt="Detailed Github Stats"/>   
-</details>
-
-  
-<!--
-A sample of my recent articles:
-
-<!- BLOG-POST-LIST:START ->
-- [Python f-strings Are More Powerful Than You Might Think](https://bit.ly/3uETfbi)
-- [Ultimate CI Pipeline for All of Your Python Projects](https://bit.ly/3MI4Iz0)
-- [Optimizing Memory Usage in Python Applications](https://bit.ly/3M30D82)
-- [Upcoming Python Features Brought to You by Python Enhancement Proposals](https://bit.ly/3oMJ6qR)
-<!- BLOG-POST-LIST:END ->
--->
-
-<!-- links to social media icons -->
-
-<!-- icons with padding -->
-
-[1.1]: http://i.imgur.com/tXSoThF.png (twitter icon with padding)
-[2.1]: http://i.imgur.com/0o48UoR.png (github icon with padding)
-
-<!-- icons without padding -->
-
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter icon without padding)
-[2.2]: http://i.imgur.com/9I6NRUm.png (github icon without padding)
-[3.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-
-
-<!-- links to your social media accounts -->
-
-[1]: https://twitter.com/rahulkarda2002
-[2]: https://github.com/rahulkarda
-[3]: https://www.linkedin.com/in/rahul-karda-314768179/
-
 
 <!-- default README.md -->
 <!--
@@ -151,6 +96,4 @@ A sample of my recent articles:
 - 📫 How to reach me - You can contact me on rahulkarda2002@gmail.com
 -->
   
-------
-Credit: [rahulkarda](https://github.com/rahulkarda)
-Last Edited on: 08/06/2022
+
