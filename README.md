@@ -159,16 +159,20 @@
 
 ## Mis Proyectos 🚀
 
-<a href="https://github.com/TU_USUARIO/remote-types">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=remote-types&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a> 
-
 <a href="https://github.com/TU_USUARIO/analisisViolenciaArmas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=analisisViolenciaArmas&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=analisisViolenciaArmas&theme=dark" />
 </a>
 
 <a href="https://github.com/TU_USUARIO/SistemaExpertoNutricional">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=SistemaExpertoNutricional&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=SistemaExpertoNutricional&theme=dark" />
+</a>
+
+<a href="https://github.com/TU_USUARIO/SistemaGestionMapas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=SistemaGestionMapas&theme=dark" />
+</a>
+
+<a href="https://github.com/TU_USUARIO/Redes2324Automatas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=Redes2324Automatas&theme=dark" />
 </a>
 
 <a href="https://github.com/TU_USUARIO/AdrianRamos15">
