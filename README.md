@@ -2,13 +2,17 @@
 
 
 
-<!-- Enlace a LinkedIn -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adri%C3%A1n-juli%C3%A1n-ramos-romero-79b3bb33a/)
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- Enlace a LinkedIn -->
+  <a href="https://www.linkedin.com/in/adri%C3%A1n-juli%C3%A1n-ramos-romero-79b3bb33a/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-<!-- Enlace a Outlook -->
-[![Outlook](https://img.shields.io/badge/Email-%23D14836?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:AdrianJulian.Ramos@alu.uclm.es)
-
-
+  <!-- Enlace a Outlook con emoticono y texto -->
+  <a href="mailto:AdrianJulian.Ramos@alu.uclm.es" target="_blank">
+    <img src="https://img.shields.io/badge/-Outlook-%23D14836?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+  </a>
+</div>
 
 # Hello Folks! 
  <!-- Profile views -->
