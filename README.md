@@ -68,30 +68,26 @@
 
 
 ## Proyectos Destacados 💻
-
 <a href="https://github.com/AdrianRamos15/analisisViolenciaArmas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=analisisViolenciaArmas&theme=dark" />
 </a>
-<!-- Descripción en el cuadro del proyecto -->
 <p align="center">📊 Análisis exploratorio de datos sobre violencia con armas en distintas regiones.</p>
 
 <a href="https://github.com/AdrianRamos15/SistemaExpertoNutricional">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=SistemaExpertoNutricional&theme=dark" />
 </a>
-<!-- Descripción en el cuadro del proyecto -->
 <p align="center">🍎 Sistema experto para recomendaciones nutricionales basado en reglas.</p>
 
 <a href="https://github.com/AdrianRamos15/SistemaGestionMapas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=SistemaGestionMapas&theme=dark" />
 </a>
-<!-- Descripción en el cuadro del proyecto -->
 <p align="center">🗺️ Sistema para gestionar mapas interactivos y generar rutas optimizadas.</p>
 
 <a href="https://github.com/RedBed24/Automatas_2324">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBed24&repo=Automatas_2324&theme=dark" />
 </a>
-<!-- Descripción en el cuadro del proyecto -->
 <p align="center">📜 Se realizará un compilador para un subconjunto del lenguaje Java. Código de grupo: E01.</p>
+
 
 
 
