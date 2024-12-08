@@ -171,13 +171,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=SistemaGestionMapas&theme=dark" />
 </a>
 
-<a href="https://github.com/AdrianRamos15/Redes2324Automatas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=Redes2324Automatas&theme=dark" />
+<a href="https://github.com/RedBed24/Automatas_2324">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=RedBed24&repo=Automatas_2324&theme=dark" />
 </a>
 
-<a href="https://github.com/AdrianRamos15/AdrianRamos15">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=AdrianRamos15&repo=AdrianRamos15&theme=dark" />
-</a>
 
 ## Blog & Writing &#x270d; 
 Apart from coding, I also maintain a blog - you can find my articles on my website at [rahulkarda.netlify.app](https://rahulkarda.netlify.app) as well as on [Medium](https://medium.com/@rahulkarda2002) and [DEV.to](https://dev.to/rahulkarda).
