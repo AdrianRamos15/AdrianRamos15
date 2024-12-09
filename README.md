@@ -8,9 +8,9 @@
     </a>
     
     <!-- Enlace a Outlook con emoji como texto al lado -->
-    <a href="mailto:AdrianJulian.Ramos@alu.uclm.es" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
-        <img src="https://img.shields.io/badge/Outlook-%23D14836?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
-        <span style="margin-left: 5px; font-size: 20px;">📧</span>
+        <a href="mailto:AdrianJulian.Ramos@alu.uclm.es" target="_blank">
+        <img src="https://img.shields.io/badge/📧%20Outlook-AdrianJulian.Ramos@alu.uclm.es-%23D14836?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+    </a>
     </a>
 </p>
 
