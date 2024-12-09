@@ -2,12 +2,15 @@
 
 
 <p align="center">
+    <!-- Enlace a LinkedIn -->
     <a href="https://www.linkedin.com/in/adri%C3%A1n-juli%C3%A1n-ramos-romero-79b3bb33a/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     
-    <a href="mailto:AdrianJulian.Ramos@alu.uclm.es" target="_blank">
-      <img src="https://img.shields.io/badge/&#x1F4E7;_Outlook-%23D14836?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+    <!-- Enlace a Outlook con emoji como texto al lado -->
+    <a href="mailto:AdrianJulian.Ramos@alu.uclm.es" target="_blank" style="display: inline-flex; align-items: center; text-decoration: none;">
+        <img src="https://img.shields.io/badge/Outlook-%23D14836?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+        <span style="margin-left: 5px; font-size: 20px;">📧</span>
     </a>
 </p>
 
