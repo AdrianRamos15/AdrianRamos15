@@ -7,7 +7,7 @@
     </a>
     
     <a href="mailto:AdrianJulian.Ramos@alu.uclm.es" target="_blank">
-      <img src="https://img.shields.io/badge/📧_Outlook-%23D14836?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+      <img src="https://img.shields.io/badge/Outlook-%23D14836?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
     </a>
 </p>
 
