@@ -15,7 +15,7 @@
 </div>
 
 
-# Hello Folks! 
+# Hello Folks! <img src="https://github.com/rahulkarda/rahulkarda/blob/main/wave.gif?raw=true" width="30">
  <!-- Profile views -->
 
 ### 👨🏻‍💻 &nbsp;About Me
