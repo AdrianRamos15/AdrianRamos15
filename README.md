@@ -17,7 +17,7 @@
 
 # Hello Folks!
  <!-- Profile views -->
- <img src="https://gpvc.arturio.dev/rahulkarda" align="center">
+
  <img src="https://c.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif" align="right" height="300">
 
 ### 👨🏻‍💻 &nbsp;About Me
