@@ -11,7 +11,6 @@
     <a href="mailto:AdrianJulian.Ramos@alu.uclm.es" target="_blank">
     <img src="https://img.shields.io/badge/📧%20Outlook-AdrianJulian.Ramos@alu.uclm.es-%23D14836?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
     </a>
-    </a>
 </p>
 
 
