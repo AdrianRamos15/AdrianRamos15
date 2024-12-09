@@ -9,7 +9,7 @@
     
     <!-- Enlace a Outlook con emoji como texto al lado -->
     <a href="mailto:AdrianJulian.Ramos@alu.uclm.es" target="_blank">
-    <img src="https://img.shields.io/badge/Outlook%20-%20?logoColor=%23D14836%20&label=%F0%9F%93%A7%20%20&labelColor=%23D14836%20-%20&color=%23D14836%20-%20style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
+        <img src="https://img.shields.io/badge/Outlook%20-%20?logoColor=%23D14836%20&label=%F0%9F%93%A7%20%20&labelColor=%23D14836%20-%20&color=%23D14836%20-%20style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
     </a>
 </p>
 
