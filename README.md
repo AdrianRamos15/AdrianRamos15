@@ -7,13 +7,6 @@
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     
-    <!-- Enlace a Outlook con emoji como texto al lado -->
-    <a href="mailto:AdrianJulian.Ramos@alu.uclm.es" target="_blank">
-        <img src= "https://img.shields.io/badge/Outlook%20-%20?logoColor=%23D14836%20&label=%F0%9F%93%A7%20%20&labelColor=%23D14836%20-%20&color=%23D14836%20-%20">
-    </a>
-</p>
-
-![Static Badge](https://img.shields.io/badge/Outlook%20-%20?logoColor=%23D14836%20&label=%F0%9F%93%A7%20%20&labelColor=%23D14836%20-%20&color=%23D14836%20-%20)
 
 
 
