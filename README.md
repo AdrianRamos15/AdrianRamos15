@@ -6,10 +6,6 @@
     <a href="https://www.linkedin.com/in/adri%C3%A1n-juli%C3%A1n-ramos-romero-79b3bb33a/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-
-    <a href="mailto:AdrianJulian.Ramos@alu.uclm.es" target="_blank">
-         <img alt="followers" title="Outlouk" src="https://img.shields.io/twitter/follow/DenverCoder1?color=55960c&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
-    </a>
     
 
 
