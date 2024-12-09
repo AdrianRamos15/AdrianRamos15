@@ -1,7 +1,7 @@
 [![Header](https://github.com/user-attachments/assets/11483566-e779-47c8-98a3-4710e4a7e269 "Header")](#)
 
 
-
+<p align="center">
 <div style="display: flex; justify-content: center; align-items: center; width: 100%; gap: 20px; margin: 0 auto;">
   <!-- Enlace a LinkedIn -->
   <a href="https://www.linkedin.com/in/adri%C3%A1n-juli%C3%A1n-ramos-romero-79b3bb33a/" target="_blank">
@@ -13,6 +13,7 @@
     <img src="https://img.shields.io/badge/📧_Outlook-%23D14836?style=flat&logo=microsoft-outlook&logoColor=white" alt="Outlook" />
   </a>
 </div>
+</p>
 
 
 # Hello Folks!
